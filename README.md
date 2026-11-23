@@ -43,6 +43,7 @@ Ces données sont disponibles dans le package R `CASdatasets`.
 
 ## Organisation du dépôt
 
+```text
 projet-assurance-ml/
 ├── data/
 │   ├── raw/
@@ -67,6 +68,7 @@ projet-assurance-ml/
 ├── docs/
 ├── requirements.txt
 └── README.md
+```
 
 ## Démarche envisagée
 
