@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Données
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Modèles entraînés
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
